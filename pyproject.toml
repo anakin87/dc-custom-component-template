@@ -33,7 +33,7 @@ python = ["3.12", "3.13"]
 
 [tool.hatch.envs.default]
 dependencies = [
-  "pytest==7.4.2",
+  "pytest",
 ]
 
 [tool.hatch.envs.default.scripts]
