@@ -19,7 +19,9 @@ classifiers = [
   "Programming Language :: Python :: Implementation :: PyPy",
 ]
 dependencies = [
-  "haystack-ai>=2.10.0"
+  "haystack-ai>=2.10.0",
+  "deepl-haystack>=0.3.0"
+
 ]
 dynamic = ["version"]
 
